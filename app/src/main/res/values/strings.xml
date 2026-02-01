@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">appCamarabasica</string>
+    <string name="capture_button_description">Capturar foto</string>
 </resources>
